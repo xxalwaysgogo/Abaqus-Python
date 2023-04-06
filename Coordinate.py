@@ -1,3 +1,5 @@
+# Edit Coordinate of INP file (Abaqus) with Python.
+
 input_file = 'C:/Users/92898/Desktop/작업/230406/original.inp'
 txt_file = 'C:/Users/92898/Desktop/작업/230406/original.txt'
 
